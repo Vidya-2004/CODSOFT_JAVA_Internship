@@ -1,5 +1,5 @@
-// Task 01 -> Number Game
-// User have to guess a number.
+// Task 01 -> Number_Guessing_Game
+// User has to guess a number in limited number of attempts.
 
 import java.util.*;
 public class Task_01_Number_Game {
