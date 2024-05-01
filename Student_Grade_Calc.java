@@ -1,6 +1,5 @@
-/**
- * Task_02_Student_Grade_Calc
- */
+// Task 02 -> Student_Grade_Calc
+
 import java.util.*;
 public class Task_02_Student_Grade_Calc {
 
